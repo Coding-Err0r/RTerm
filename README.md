@@ -11,7 +11,7 @@
   <h3 align="center">Rhine's Terminal Portfolio</h3>
 
   <p align="center">
-    RTerm
+    Demo : <a href="https://r-term.vercel.app/">RTerm</a>
     <br />
     <br />
   </p>
